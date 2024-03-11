@@ -1,10 +1,16 @@
 # iOS Software Engineer
 
 ## Skills
-- Designig scalable app architecture
-- Languages: Swift, Objective C
-- Foundation, UIKit, SwiftUI
-- Reactive programming (RxSwift, Combine)
+### Development tools
+- XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
+### Networking tools and DBs
+- URLSession, Alamofire, Core Data, Realm, SignalR, Flat Buffers.
+### Reactive
+- RxSwift, Combine
+### Multithreading
+- GCD, NSOperation, async-await
+### Other
+- git, Jira, Clickup, Notion, Monday
 
 ## Experience
 
