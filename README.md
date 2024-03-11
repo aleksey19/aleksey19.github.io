@@ -8,7 +8,7 @@
 
 ## Experience
 
-**iOS Lead Developer at Liquidfish (_August 2020_ - Present_)**
+**iOS Lead Developer at Liquidfish (_August 2020_ - Present)**
 - Supported existed and designed new Braums Online Ordering app
 - Worked on media application for famous singer
 
