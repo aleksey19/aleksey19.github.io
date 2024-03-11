@@ -1,8 +1,8 @@
-### iOS Software Engineer
+# iOS Software Engineer
 
 ## Experience
 
-# iOS Lead Developer at Liquidfish
+### iOS Lead Developer at Liquidfish
 - Supported existed and designed new Braums Online Ordering app
 - Worked on media application for famous singer
 
