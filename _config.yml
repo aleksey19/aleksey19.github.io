@@ -2,4 +2,5 @@ title: Oleksii Bidnyk
 logo: assets/img/cv_avatar_rounded.jpg
 description: Portfolio test
 show_download: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
