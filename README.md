@@ -20,7 +20,7 @@
     <summary>Technologies</summary>
     Social media applications developed with SwiftUI, Flat Buffers, AVPlayer, SPM
   </details>
-- [Braum's Fresh Market](https://apps.apple.com/us/app/braums-fresh-market/id1487529137?platform=iphone). Client-server B2C application for Oklahoma food company Braum's. Old version was built on MVC. New version was built on MVVM-C architecture and protocol oriented approach. Tools and sdks: Swift, CocoaPods, UIKit, Combine, UrlSession, async-await, gcd, Apple Pay, Heartland-sdk, Lottie, Datadog, Crashlytics, Push notifications, CI/CD on Xcode Cloud.
+- [Braum's Fresh Market](https://apps.apple.com/us/app/braums-fresh-market/id1487529137?platform=iphone). Client-server B2C application for Oklahoma food company Braum's. Old version was built on MVC. New version was built on MVVM-C architecture and protocol oriented approach. Tools and sdks: Swift, CocoaPods, UIKit, Combine, UrlSession, async-await, gcd, Apple Pay, Heartland-sdk, Lottie, Datadog, Crashlytics, Push notifications, Deep links, CI/CD on Xcode Cloud.
 - [Eighttwenty](https://apps.apple.com/us/app/eighttwenty/id1604773519). Client-server B2B application for green energy consumers. Developed on MVVM-C architecture. Tools and sdks: Swift, CocoaPods, UIKit, RxSwift, URLSession, Charts, Lottie, RxDataSources, Crashlytics, Firebase Analytics. 
 
 ## Education
