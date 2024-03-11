@@ -2,11 +2,8 @@
 
 ## Skills
 
-#### Development tools:
-XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
-
-#### Networking tools and DBs
-- URLSession, Alamofire, Web sockets, Core Data, Realm, SignalR, Flat Buffers.
+- #### Development tools: XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
+- #### Networking tools and DBs: URLSession, Alamofire, Web sockets, Core Data, Realm, SignalR, Flat Buffers.
 
 #### Reactive
 - RxSwift, Combine
