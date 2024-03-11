@@ -14,6 +14,10 @@
 
 ## Applications
 - [Philippe Saisse](https://apps.apple.com/us/app/philippe-saisse/id6444134222) singer app
+  <details>
+    <summary>Technologies</summary>
+    Social media applications developed with SwiftUI, Flat Buffers, AVPlayer, SPM
+  </details>
 - [Braum's Online Ordering](https://apps.apple.com/us/app/braums-fresh-market/id1487529137?platform=iphone) app
 
 ## Education
