@@ -2,13 +2,15 @@
 
 ## Skills
 
-- #### Development tools: XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
-- #### Networking tools and DBs: URLSession, Alamofire, Web sockets, Core Data, Realm, SignalR, Flat Buffers.
+- Development tools: XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
+- Networking tools and DBs: URLSession, Alamofire, Web sockets, Core Data, Realm, SignalR, Flat Buffers.
 - Reactive programming: RxSwift, Combine
 - Multithreading: GCD, NSOperation, async-await
 - Capabilities: Apple Pay, In-app purchases, Sign in with social networks, Push notifications, Deep links
 - Media: AVPlayer, Lottie
-- Other: Git, Jira, Xcode Cloud, Crashlytics, Firebase, Clickup, Notion, Monday, Charles, Postman
+- Other: Git, Jira, Xcode Cloud, Crashlytics, Firebase, Clickup, Notion, Monday, Charles, Postman, Jenkins
+- Development principles and patterns: OOP, SOLID, KISS, MVC, MVVM-C
+- Methodologies: Kanban, Agile, EOS (entrepreneural operation system)
 
 ## Experience
 
