@@ -1,19 +1,26 @@
 # iOS Software Engineer
 
 ## Skills
-### Development tools
+
+#### Development tools
 - XCode, Objective C, Swift, UIKit, SwiftUI, CocoaPods, SPM
-### Networking tools and DBs
+
+#### Networking tools and DBs
 - URLSession, Alamofire, Web sockets, Core Data, Realm, SignalR, Flat Buffers.
-### Reactive
+
+#### Reactive
 - RxSwift, Combine
-### Multithreading
+
+#### Multithreading
 - GCD, NSOperation, async-await
-### Capabilities
+
+#### Capabilities
 - Apple Pay, In-app purchases, Sign in with social networks, Push notifications, Deep links
-### Media
+
+#### Media
 - AVPlayer, Lottie
-### Other
+
+#### Other
 - git, Jira, Xcode Cloud, Crashlytics, Firebase, Clickup, Notion, Monday, Charles, Postman
 
 ## Experience
