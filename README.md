@@ -1,6 +1,5 @@
 # iOS Software Engineer
 
-
 ## Skills
 
 - Development tools: XCode, Instruments, Objective C, Swift, Foundation, UIKit, SwiftUI, CocoaPods, SPM
@@ -12,8 +11,6 @@
 - Other: Git, Jira, Xcode Cloud, Crashlytics, Firebase, Clickup, Notion, Monday, Charles, Postman, Jenkins
 - Development principles and patterns: OOP, SOLID, KISS, MVC, MVVM-C
 - Methodologies: Kanban, Agile, EOS (entrepreneural operation system)
-
-
 
 ## Applications
 ### Liquidfish (_August 2020_ - _Present_)
@@ -27,6 +24,10 @@
 - [EMFEX](https://appadvice.com/app/emfex/1563880653). Mutual funds platform. Built on MVVM-C using Swift, RxSwift. Alamofire and SignalR for data transferring. Core Data as a storage. Other tools: SwiftyJSON, gcd, Charts, FLAnimatedImage.
 
 - [eForex](https://apps.apple.com/us/app/eforex/id6462084349). Forex trading app. Built using the same tools.
+
+### Freelanse
+- [RLive radio](https://apps.apple.com/us/app/rlive-radio-live-israel-radio/id451252423). Radio application. Support and adding new features.
+- [Schooly](https://apps.apple.com/il/app/schooly-סקולי/id923820393). Application for pupils. Support and adding new features.
 
 ## Education
 - Systems Analyst, Master's degree | Dnipropetrovsk National University, Department of Applied Mathematics. (_September 2009_ - _May 2014_)
