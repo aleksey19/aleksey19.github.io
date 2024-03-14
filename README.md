@@ -1,5 +1,6 @@
 # iOS Software Engineer
 
+
 ## Skills
 
 - Development tools: XCode, Instruments, Objective C, Swift, Foundation, UIKit, SwiftUI, CocoaPods, SPM
@@ -11,6 +12,7 @@
 - Other: Git, Jira, Xcode Cloud, Crashlytics, Firebase, Clickup, Notion, Monday, Charles, Postman, Jenkins
 - Development principles and patterns: OOP, SOLID, KISS, MVC, MVVM-C
 - Methodologies: Kanban, Agile, EOS (entrepreneural operation system)
+
 
 
 ## Applications
