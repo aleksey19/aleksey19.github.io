@@ -26,6 +26,8 @@
 - [eForex](https://apps.apple.com/us/app/eforex/id6462084349). Forex trading app. Built using the same tools.
 
 ### Freelance
+- [Fase](http://fase.io/). Frontend in the cloud platform for constructing mobile applications. I developed iOS app architecture and implemented main ideas into the code. The most ambitious and difficult was drawing UI interfaces from the JSON.
+
 - [RLive radio](https://apps.apple.com/us/app/rlive-radio-live-israel-radio/id451252423). Radio application. Support and adding new features.
 
 - [Schooly](https://apps.apple.com/il/app/schooly-סקולי/id923820393). Application for pupils. Support and adding new features.
